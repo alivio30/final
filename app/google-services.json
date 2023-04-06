@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "528500156476",
+    "project_id": "scanner-14ced",
+    "storage_bucket": "scanner-14ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528500156476:android:3911c818e2cbebeded7b39",
+        "android_client_info": {
+          "package_name": "com.example.newscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528500156476-fq8mbje08a5d5qp7mr79c6oo3fhofbb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoXhSR2uX30h9jzGXvXMvOW0Y6rw0c60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528500156476-fq8mbje08a5d5qp7mr79c6oo3fhofbb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528500156476:android:93eb7ae9c2c54285ed7b39",
+        "android_client_info": {
+          "package_name": "com.google.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528500156476-fq8mbje08a5d5qp7mr79c6oo3fhofbb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoXhSR2uX30h9jzGXvXMvOW0Y6rw0c60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528500156476-fq8mbje08a5d5qp7mr79c6oo3fhofbb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
